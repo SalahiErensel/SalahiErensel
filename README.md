@@ -10,8 +10,10 @@
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/SalahiErensel)](https://github.com/SalahiErensel/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
-[![Java](https://img.shields.io/badge/Java-FFD700?style=flat-square&logo=java&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
-[![React](https://img.shields.io/badge/React-FFD700?style=flat-square&logo=react&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
+[![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
+[![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
+
 
 
 - 👍 My GitHub profile : [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
