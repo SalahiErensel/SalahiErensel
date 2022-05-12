@@ -13,6 +13,8 @@
 [![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
+[![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
+[![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
 
 
 
