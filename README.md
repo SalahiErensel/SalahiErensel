@@ -6,6 +6,7 @@
 - 📫 How to reach me : via e-mail: salahi_erensel@hotmail.com or via linkedIn: https://www.linkedin.com/in/salahi-erensel-ab59a2232/
 - ## Knowledges / Tecrübeler
 - 👨‍💻 Programming Languages I know quite well :[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
+[![NodeJS](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=nodejs&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
 [![Python](https://img.shields.io/badge/Python-FFD700?style=flat-square&logo=python&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/SalahiErensel)](https://github.com/SalahiErensel/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
