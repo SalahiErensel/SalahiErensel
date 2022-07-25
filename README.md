@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me : via e-mail: salahi_erensel@hotmail.com or via linkedIn: https://www.linkedin.com/in/salahi-erensel-ab59a2232/
 - ## Knowledges / Tecrübeler
-- 👨‍💻 Programming Languages I know quite well :[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
+- 👨‍💻   Apps that I can use during the development of the projecs :[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=nodejs&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
 [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=reactnative&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
