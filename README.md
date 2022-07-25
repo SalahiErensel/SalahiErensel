@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SalahiErensel
 - 👀 I’m interested in developing software projects
 - 📚 I'm currently a 4th year software engineering student in Eastern Mediterranean University
-- 📫 How to reach me : via e-mail: salahi_erensel@hotmail.com or via linkedIn: https://www.linkedin.com/in/salahi-erensel-ab59a2232/
+- 📫 How to reach me : via e-mail: salahi_erensel@hotmail.com or via linkedIn: https://www.linkedin.com/in/salahi-erensel/
 -
 -  ## Knowledges / Tecrübeler
 - 👨‍💻   Apps that I can use during the development of the projecs :[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
