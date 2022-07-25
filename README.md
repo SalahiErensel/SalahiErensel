@@ -7,6 +7,8 @@
 - ## Knowledges / Tecrübeler
 - 👨‍💻 Programming Languages I know quite well :[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=nodejs&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
+[![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=reactnative&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
 [![Python](https://img.shields.io/badge/Python-FFD700?style=flat-square&logo=python&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/SalahiErensel)](https://github.com/SalahiErensel/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/SalahiErensel/)](https://github.com/SalahiErensel/)
