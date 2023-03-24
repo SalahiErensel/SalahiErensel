@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salahierensel" alt="salahierensel" /></a> </p>
 
-<img src = "https://user-images.githubusercontent.com/100222193/227602692-b949202b-52f1-4693-9ee7-595fd2d5b682.gif" width="40" height="40")
+[!][](https://user-images.githubusercontent.com/100222193/227602692-b949202b-52f1-4693-9ee7-595fd2d5b682.gif)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=salahierensel&icon=0&color=0)](https://visitcount.itsvg.in)
